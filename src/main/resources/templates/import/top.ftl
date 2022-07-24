@@ -26,13 +26,13 @@
                 <span class="icon-bar"></span>
             </button>
             <!-- 品牌名称或logo -->
-            <a class="navbar-brand" href="your/nice/url">首页</a>
+            <a class="navbar-brand" href="/">首页</a>
         </div>
         <!-- 导航项目 -->
         <div class="collapse navbar-collapse navbar-collapse-example">
             <!-- 一般导航项目 -->
             <ul class="nav navbar-nav">
-                <li class="active"><a href="/deblog/index">基础数据</a></li>
+                <li class="active"><a href="/deblog/">基础数据</a></li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">用户管理 <b class="caret"></b></a>
                     <ul class="dropdown-menu" role="menu">
